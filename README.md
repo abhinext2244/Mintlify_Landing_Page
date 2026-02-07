@@ -9,8 +9,8 @@ typography.
 ## 🌐 Live Demo
 
 🔗 https://mintlify-landing-page-psi.vercel.app/
-
-
+## Clone the repository
+https://github.com/abhinext2244/Mintlify_Landing_Page.git
 ---
 
 ## 🎯 About The Project
